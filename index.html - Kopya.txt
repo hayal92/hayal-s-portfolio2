@@ -1,0 +1,57 @@
+<!DOCTYPE html>  <lang html="en"> </lang>
+<head> 
+ <metacharset="UTF-8"> </metacharset>
+ <title>My Resume </title>  
+</head>
+<body>
+
+<h1>Hayal Ekin</h1>
+
+<img src="./WhatsApp Görsel 2024-01-28 saat 19.48.27_9ef1e7df.jpg" height="300"/>
+<h2>Summary</h2>
+  <p>  In my working life, I am a very hard-working, self-sacrificing, detail-oriented, successful and harmonious, friendly and energetic person in team work.In my individual work, I am time-oriented and disciplined.</p>
+<hr />
+<h2>Education</h2>
+<p><ul>
+<li>Faculty of Economics and Administrative Sciences International
+    Relations -University of Suleyman Demirel (2013-2017)</li>
+</ul></p>
+<hr />
+<h2>Work Experience</h2>
+
+<ul>
+    <li><h3>Education Consultancy</h3></li>
+    
+<p>July 2017-May 2018 </p>
+<ul>
+    <li>Registration of the student to the language school</li>
+    <li>Assessing the language level</li>
+    <li>Arranging the classroom order</li>
+
+</ul>
+<li><h3>Flight Attendant</h3></li>
+<p>Jan 2019-Present</p>
+<ul>
+<li>Dealing with traveling passengers</li>
+<li>Meeting passengers' demands</li>
+<li>Ensuring the safety and security of the aircraft</li></ul>
+
+<hr />
+<h2>Skills</h2>
+
+<li>Customer Service:⭐⭐⭐⭐⭐</li>
+<li>Microsoft Office:⭐⭐⭐⭐</li>
+<li>Organization Skills:⭐⭐⭐⭐⭐</li>
+<li>Punctuality:⭐️⭐️⭐️⭐️⭐️</li>
+<li>Team Work:⭐️⭐️⭐️⭐️⭐️</li>
+<hr />
+<h2>Other</h2>
+
+<li><a href="./hobiler.html">My Hobbies</a></li>
+<li><a href="./Untitled-1.html">Contact Me</a></li>
+</ul>
+<footer>
+<p>© Hayal Ekin.All rights reserved.</p>
+</footer>
+
+</body>
